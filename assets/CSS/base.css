@@ -1,0 +1,10 @@
+:root{
+    --color-one: #00183E;
+    --color-two: #032858;
+}
+html{
+    scroll-behavior: smooth;;
+  }
+body {
+    font-size: 18px;
+}
